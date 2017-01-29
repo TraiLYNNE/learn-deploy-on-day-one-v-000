@@ -197,7 +197,7 @@ a:visited {
 #tom-su-cover {
   background-image: url("http://datas.series-tv-shows.com/pic/tvdb/2448/fanart.jpg");
 }
- 
+
 #tom-su-card {
    background-image: url("http://imgur.com/ftlyRw2.png");
 }
@@ -4373,6 +4373,14 @@ a:visited {
   background-image: url("http://i.imgur.com/4lURUy9.jpg");
 }
 
+#trai-compton-cover {
+  background-image: url("http://imgur.com/9x4iFE5.jpg");
+}
+
+#trai-compton-card {
+  background-image: url("http://i.imgur.com/90W0Y6G.jpg");
+}
+
 #bradley-watson-cover {
   background-image: url("http://i.imgur.com/zGRszt7.jpg");
   -webkit-transition: 0.2s;
@@ -4626,7 +4634,7 @@ a:visited {
 #rachel-lim-cover {
     background-image: url("http://i.imgur.com/yb6Dn4Y.jpg");
   }
- 
+
 #rachel-lim-card {
     background-image: url("http://i.imgur.com/lFqgSu2.jpg?1");
   }
